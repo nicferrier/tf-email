@@ -1,0 +1,20 @@
+{
+    "name": "tfmail",
+    "version": "0.0.1",
+    "description": "a sort of webmail tool",
+    "main": "app.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+	"mail",
+	"social",
+	"networking",
+	"communicating"
+    ],
+    "dependencies": {
+	"emailjs-imap-client": "2.0.8"
+    },
+    "author": "nic ferrier",
+    "license": "GPL-3.0"
+}
